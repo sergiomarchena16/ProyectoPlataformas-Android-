@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "826750373640",
+    "firebase_url": "https://proyectoandroid-a7fbd.firebaseio.com",
+    "project_id": "proyectoandroid-a7fbd",
+    "storage_bucket": "proyectoandroid-a7fbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826750373640:android:1209ec649411273d",
+        "android_client_info": {
+          "package_name": "com.example.sergiomarchena.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826750373640-vl9bhs41kof7m6ctbqsndttouqb0acg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sergiomarchena.myapplication",
+            "certificate_hash": "60b172afc984202b4348e2c067dae10352a89eb9"
+          }
+        },
+        {
+          "client_id": "826750373640-om6ap6bq9i5dn1hvrqhia0nksg4ehbkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK1_scye8qrN9exLJ4cjm4wjLnhCQ4So8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826750373640-om6ap6bq9i5dn1hvrqhia0nksg4ehbkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
